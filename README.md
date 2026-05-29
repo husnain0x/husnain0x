@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Husnain 👋</h1>
 
-<!--
-**husnain0x/husnain0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 BS Robotics & AI Student &nbsp;|&nbsp;
+  🤖 Embedded Systems &nbsp;|&nbsp;
+  📡 IoT & Wireless Communication
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Work With
+- **Hardware:** Arduino, MPU6050, NRF24L01, Motor Drivers
+- **Languages:** C++, Python (learning)
+- **Tools:** GitHub, VS Code, JetBrains
+
+---
+
+### 🚀 Current Projects
+- 🚗 Gesture-Controlled RC Car (MPU6050 + NRF24L01)
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: [your linkedin link]
+- Email: [your email]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
