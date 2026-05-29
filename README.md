@@ -22,7 +22,7 @@
 
 ### 📫 Connect With Me
 - LinkedIn: [your linkedin link]
-- Email: [your email]
+- Email: husnain.ajmal999@gmail.com
 
 ---
 
